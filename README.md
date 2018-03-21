@@ -17,7 +17,4 @@ My solved Katas
 #### Calculator
 #### Maximum subarray sum
 #### Range Extraction
-
-
-
-
+#### Sort the odd
